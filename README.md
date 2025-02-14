@@ -65,6 +65,13 @@
 
 *3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.*
 
+![VirtualBox_kali-linux-2023 3-virtualbox-amd64_1_14_02_2025_01_04_53](https://github.com/user-attachments/assets/7a0e8b33-23c0-499b-b9cc-69daef2f9369)
+![VirtualBox_kali-linux-2023 3-virtualbox-amd64_1_14_02_2025_01_06_20](https://github.com/user-attachments/assets/84022432-1f40-485a-808d-a5c51facf99c)
+![VirtualBox_kali-linux-2023 3-virtualbox-amd64_1_14_02_2025_01_40_40](https://github.com/user-attachments/assets/772a9a2c-19d5-44d5-b4fc-0ae4f32a89e6)
+![VirtualBox_kali-linux-2023 3-virtualbox-amd64_1_14_02_2025_01_56_08](https://github.com/user-attachments/assets/fe20fb4e-8c00-46e7-a3a6-4af6d5e765a1)
+![VirtualBox_kali-linux-2023 3-virtualbox-amd64_1_14_02_2025_01_57_04](https://github.com/user-attachments/assets/e50a2d69-703f-4cd4-ba70-e716ea798453)
+
+
 ---
 
 ## Задания со звёздочкой*
