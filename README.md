@@ -73,6 +73,7 @@
 /home/kali/terraform/main.tf
 /home/kali/terraform/output.tf
 /home/kali/terraform/users.yml
+/home/kali/terraform/README.md
 ---
 
 ## Задания со звёздочкой*
