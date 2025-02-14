@@ -72,7 +72,7 @@
 ![VirtualBox_kali-linux-2023 3-virtualbox-amd64_1_14_02_2025_01_57_04](https://github.com/user-attachments/assets/e50a2d69-703f-4cd4-ba70-e716ea798453)
 /home/kali/terraform/main.tf
 /home/kali/terraform/output.tf
-
+/home/kali/terraform/users.yml
 ---
 
 ## Задания со звёздочкой*
